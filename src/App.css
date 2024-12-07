@@ -1,0 +1,16 @@
+.selecter select {
+  width: 24rem;
+  padding: 8px;
+  border: 1px solid #dddddd;
+  border-radius: 5px;
+  outline: none;
+}
+.amountContainer > input {
+  border: 1px solid #ddd;
+  outline: none;
+}
+.spinner {
+  margin: auto;
+  height: 3rem;
+  width: 3rem;
+}
